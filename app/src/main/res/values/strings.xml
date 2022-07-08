@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NS Assessment</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="station_card_title">%1$s ( %2$s  )</string>
+    <string name="station_card_sub_title">Starting Date : %1$s</string>
+</resources>
